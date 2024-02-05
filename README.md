@@ -21,7 +21,7 @@
 
 <h4>Program languages</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,dart)](https://skillicons.dev)
 
 <h4>Utilities</h4>
 
