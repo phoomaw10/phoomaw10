@@ -10,7 +10,7 @@
 
 <h3 align = "left">Contact Me:)</h3>
 <p align = "left">
-  <a href = "<a href="https://fb.com/phoom.nt.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awat" height="30" width="40" /></a>
+  <a href = "<a href="[https://fb.com/phoom.nt.5/](https://www.facebook.com/phoom.nt.5)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awat" height="30" width="40" /></a>
   <a href="https://www.instagram.com/ph_an.m/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="awat". height="30" width="40" /></a>
 </p>
 
