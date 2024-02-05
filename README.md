@@ -29,6 +29,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,dart)](https://skillicons.dev)
 
+<h4>Infrastructure</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,firebase)](https://skillicons.dev)
+
 <h4>Utilities</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github,pr,vscode)](https://skillicons.dev)
