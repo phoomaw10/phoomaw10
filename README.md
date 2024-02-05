@@ -4,9 +4,9 @@
 
 <h3 align = "center">Awat Nimsiriwangso. I'm CS Student at SIT, KMUTT.</h3>
 
-- 💡I'm learning **Web App developer**
+- 💡I'm learning **Front-end Web & Mobile App developer**
 
-- ⌨ I'm interest about **Coding, Games and Football**
+- ⌨ I'm interest about **Front-end and UX/UI**
 
 <h3 align = "left">Contact Me:)</h3>
 <p align = "left">
