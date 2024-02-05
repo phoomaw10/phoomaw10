@@ -21,6 +21,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,react,flutter,next)](https://skillicons.dev)
 
+<h4>Back-end</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
 <h4>Program languages</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,dart)](https://skillicons.dev)
