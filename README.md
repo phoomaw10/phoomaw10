@@ -23,7 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,c)](https://skillicons.dev)
 
-<h4>Utities</h4>
+<h4>Utilities</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github,pr,flutter,vscode)](https://skillicons.dev)
 
