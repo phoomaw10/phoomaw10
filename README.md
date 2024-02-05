@@ -10,18 +10,18 @@
 
 <h3 align = "left">Contact Me:)</h3>
 <p align = "left">
-  <a href = "<a href="https://fb.com/phoom.nt.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neng sitiporn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/ph_an.m/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="neng sitiporn". height="30" width="40" /></a>
+  <a href = "<a href="https://fb.com/phoom.nt.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awat" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ph_an.m/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="awat". height="30" width="40" /></a>
 </p>
 
 <h2>My Skill</h2>
 <h4>Web Dev </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,react,nodejs)](https://skillicons.dev)
 
 <h4>Program languages</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
 
 <h4>Utilities</h4>
 
