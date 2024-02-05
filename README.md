@@ -15,9 +15,9 @@
 </p>
 
 <h2>My Skill</h2>
-<h4>Web Dev </h4>
+<h4>Front-end</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,react,flutter,next)](https://skillicons.dev)
 
 <h4>Program languages</h4>
 
@@ -25,7 +25,7 @@
 
 <h4>Utilities</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,pr,flutter,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,pr,vscode)](https://skillicons.dev)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoomaw10&label=Profile%20views&color=0e75b6&style=flat" alt="phoomaw10" /> </p>
 
